@@ -1,0 +1,28 @@
+{
+  "name": "patch-monitor",
+  "version": "1.0.0",
+  "description": "monitor the mtw phone patch",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node checkup.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/insanity54/mtw-patch-monitor"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/insanity54/mtw-patch-monitor/issues"
+  },
+  "homepage": "https://github.com/insanity54/mtw-patch-monitor",
+  "dependencies": {
+    "express": "3.0.x"
+    "plivo-node": "^0.2.5"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.1.x"
+  }
+}
