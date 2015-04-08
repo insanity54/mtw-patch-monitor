@@ -19,6 +19,7 @@
   "homepage": "https://github.com/insanity54/mtw-patch-monitor",
   "dependencies": {
     "express": "3.0.x",
+    "nconf": "^0.7.1",
     "plivo-node": "^0.2.5"
   },
   "engines": {
